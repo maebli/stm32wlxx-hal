@@ -35,6 +35,11 @@ path = "src/i2c.rs"
 harness = false
 
 [[bin]]
+name = "gn_i2c"
+path = "src/gn_i2c.rs"
+harness = false
+
+[[bin]]
 name = "info"
 path = "src/info.rs"
 harness = false
